@@ -1,4 +1,4 @@
-# Python messenging application
-## Demostration of socket and GUI programming in python
+# Python messaging application
+## Demonstration of socket and GUI programming in python
 #### lovely :)
 
